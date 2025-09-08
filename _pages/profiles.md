@@ -17,7 +17,7 @@ profiles:
   
   - name: Carol Lee
     role: Member
-    image: /assets/img/profiles/carol.jpg
+    image: /assets/img/prof_pic.jpg
     url: https://example.com/carol
 
 
