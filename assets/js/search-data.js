@@ -35,15 +35,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-twin4ch-was-present-at-the-bi-annual-cipa-symposium-in-seoul-south-korea",
+          title: 'Twin4CH was present at the bi-annual CIPA Symposium in Seoul, South Korea.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "projects-gaussian-splatting-for-heritage",
+          section: "News",},{id: "projects-gaussian-splatting-for-heritage",
           title: 'Gaussian splatting for heritage',
           description: "with background image",
           section: "Projects",handler: () => {
