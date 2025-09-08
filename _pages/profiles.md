@@ -10,6 +10,11 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   
+  - name: Arnadi Murtiyoso
+    role: Chair
+    image: /assets/img/profile/arnadi.jpg
+    url: https://murtiad.github.io
+  
   - name: Alice Johnson
     role: Leader
     image: prof_pic.jpg
