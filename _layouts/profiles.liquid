@@ -18,14 +18,6 @@ layout: page
     transform: scale(1.05);
   }
 
-  .profile-card img {
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-    border-radius: 50%;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  }
-
   .profile-name {
     margin-top: 8px;
     font-weight: 500;
@@ -42,7 +34,10 @@ layout: page
           {% if profile.role == role %}
             <div class="profile-card">
               {{ profile.url }}
-                {{ profile.image | relative_url }}
+                {% assign profile_image_path = profile.image | prepend: 'assets/img/profile/' %}
+                {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+                {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
+                {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.name %}
               </a>
               <div class="profile-name">{{ profile.name }}</div>
             </div>
@@ -52,5 +47,3 @@ layout: page
     {% endfor %}
   </article>
 </div>
-
-
