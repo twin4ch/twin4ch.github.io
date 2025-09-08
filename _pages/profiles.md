@@ -10,8 +10,8 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   
-  - name: Arnadi Murtiyoso
-    role: Chaire
+  - name: Arnadis Murtiyoso
+    role: Chair
     image: arnadi.jpg
     url: https://murtiad.github.io
   
