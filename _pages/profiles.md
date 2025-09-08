@@ -35,10 +35,10 @@ profiles:
     image: blank.jpg
     url: https://example.com/carol
 
-  - name: Theodoros Betsas
+  - name: Thodoris Betsas (NTUA, Greece)
     role: Visiting Researcher
-    image: blank.jpg
-    url: https://example.com/carol
+    image: betsas.jpg
+    url: https://scholar.google.com/citations?user=jEHV7i8AAAAJ&hl=el
 
 
 ---
