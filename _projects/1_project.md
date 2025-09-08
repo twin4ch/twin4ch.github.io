@@ -8,10 +8,15 @@ category:
 related_publications: true
 ---
 
-This project investigates the use of Gaussian splatting to record heritage objects.
+## Summary
+Metric documentation of cultural heritage provides reference points for preservation and in some cases, reconstruction of built heritage. Although the documentation process is traditionally done using 2D maps, drawings, and photographs, modern techniques nowadays tend to use 3D digital technologies such as laser scanning and photogrammetry. Novel neural radiance fields-based methods show great promise in supporting this task, first with the Neural Radiance Fields (NeRF) and later on using the more explicit 3D Gaussian splatting (3DGS) methods which is the subject of this research. While previous other studies have proven this point, it still remains to be seen if radiance fields methods such as 3DGS can provide a similar quality, both visual and geometric, to conventional methods. This is particularly important for heritage documentation applications. This project aims, therefore, to investigate the application of 3DGS for heritage documentation in terms of metric quality.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tours.gif" title="gaussian splatting for tower" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+## Collaborators
+- Hélène Macher (ICube TRIO)
+- Etienne Sommer (ICube TRIO)
