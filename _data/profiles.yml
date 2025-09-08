@@ -1,25 +1,30 @@
 
 - name: Alice Johnson
   role: Leader
-  image: /assets/img/profiles/alice.jpg
+  image: /assets/img/profile/alice.jpg
   url: https://example.com/alice
 
 - name: Bob Smith
   role: Leader
-  image: /assets/img/profiles/bob.jpg
+  image: /assets/img/profile/bob.jpg
   url: https://example.com/bob
 
 - name: Carol Lee
   role: Member
-  image: /assets/img/profiles/carol.jpg
+  image: /assets/img/profile/carol.jpg
   url: https://example.com/carol
 
 - name: David Kim
   role: Member
-  image: /assets/img/profiles/david.jpg
+  image: /assets/img/profile/david.jpg
   url: https://example.com/david
 
 - name: Eva Brown
   role: Member
-  image: /assets/img/profiles/eva.jpg
+  image: /assets/img/profile/eva.jpg
   url: https://example.com/eva
+
+- name: Arnadi Murtiyoso
+  role: Chair
+  image: /assets/img/profile/arnadi.jpg
+  url: https://murtiad.github.io/
