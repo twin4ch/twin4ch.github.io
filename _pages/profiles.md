@@ -17,12 +17,12 @@ profiles:
   
   - name: Pierre Grussenmeyer
     role: Collaborator
-    image: prof_pic.jpg
+    image: blank.jpg
     url: https://example.com/alice
   
   - name: Tania Landes
     role: Collaborator
-    image: /assets/img/prof_pic.jpg
+    image: blank.jpg
     url: https://example.com/carol
 
 
