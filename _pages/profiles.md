@@ -18,7 +18,7 @@ profiles:
   
   - name: Pierre Grussenmeyer
     role: Collaborator
-    image: blank.jpg
+    image: pierre.jpg
     url: https://scholar.google.fr/citations?user=qICoHIcAAAAJ&hl=en
     email: mailto:pierre.grussenmeyer@insa-strasbourg.fr
   
