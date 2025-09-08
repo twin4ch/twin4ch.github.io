@@ -22,7 +22,7 @@ profiles:
   
   - name: Tania Landes
     role: Collaborator
-    image: blank.jpg
+    image: tania.jpg
     url: https://scholar.google.fr/citations?hl=en&user=--w97vEAAAAJ
 
   - name: Dario Billi
