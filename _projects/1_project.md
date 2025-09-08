@@ -5,7 +5,7 @@ description:
 img: assets/img/tours.gif
 importance: 1
 category: 
-related_publications: true
+related_publications: false
 ---
 
 ## Summary
