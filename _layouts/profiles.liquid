@@ -40,9 +40,8 @@ layout: page
                 {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.name %}
               </a>
               <div class="profile-name">
-                <a href="{{ profile.email }}">
                 {{ profile.name }}
-                </a>
+                <a href="{{ profile.email }}"> 📧</a>
               </div>
             </div>
           {% endif %}
