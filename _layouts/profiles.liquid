@@ -35,6 +35,7 @@ layout: page
 <div class="post">
   <article>
     {% assign roles = page.profiles | map: "role" | uniq %}
+    {% assign profile_image_path = profile.image | prepend: 'assets/img/profile/' %}
     {% for role in roles %}
       <h2>{{ role }}</h2>
       <div class="profile-grid">
