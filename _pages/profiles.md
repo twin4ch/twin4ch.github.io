@@ -12,7 +12,7 @@ profiles:
   
   - name: Arnadi Murtiyoso
     role: Chair
-    image: /assets/img/profile/arnadi.jpg
+    image: arnadi.jpg
     url: https://murtiad.github.io
   
   - name: Alice Johnson
