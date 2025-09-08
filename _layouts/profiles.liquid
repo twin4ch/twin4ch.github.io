@@ -33,7 +33,7 @@ layout: page
         {% for profile in page.profiles %}
           {% if profile.role == role %}
             <div class="profile-card">
-              {{ profile.url }}
+            <a href="{{ profile.url }}">
                 {% assign profile_image_path = profile.image | prepend: 'assets/img/profile/' %}
                 {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
                 {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
