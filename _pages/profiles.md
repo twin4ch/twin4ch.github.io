@@ -32,8 +32,8 @@ profiles:
 
   - name: Widiatmoko Azis Fadilah
     role: PhD Researcher
-    image: blank.jpg
-    url: https://example.com/carol
+    image: fadilah.jpg
+    url: https://www.linkedin.com/in/widiatmoko-azis-f/
 
   - name: Thodoris Betsas (NTUA, Greece)
     role: Visiting Researcher
