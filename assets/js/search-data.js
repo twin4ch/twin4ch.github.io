@@ -49,7 +49,7 @@ ninja.data = [{
           title: 'Gaussian splatting for heritage',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/Gaussian%20splatting%20for%20heritage/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
