@@ -11,8 +11,8 @@ profiles:
   # and create one content file for each profile inside _pages/
   
   - name: Arnadi Murtiyoso
-    role: Chair
-    image: /assets/img/profile/arnadi.jpg
+    role: Chaire
+    image: arnadi.jpg
     url: https://murtiad.github.io
   
   - name: Alice Johnson
