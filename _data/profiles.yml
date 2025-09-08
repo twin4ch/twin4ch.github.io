@@ -1,7 +1,7 @@
 
 - name: Alice Johnson
   role: Leader
-  image: /assets/img/profile/alice.jpg
+  image: /assets/img/prof_pic.jpg
   url: https://example.com/alice
 
 - name: Bob Smith
@@ -11,7 +11,7 @@
 
 - name: Carol Lee
   role: Member
-  image: /assets/img/profile/carol.jpg
+  image: /assets/img/prof_pic.jpg
   url: https://example.com/carol
 
 - name: David Kim
@@ -26,5 +26,5 @@
 
 - name: Arnadi Murtiyoso
   role: Chair
-  image: assets/img/profile/arnadi.jpg
+  image: /assets/img/profile/arnadi.jpg
   url: https://murtiad.github.io/
