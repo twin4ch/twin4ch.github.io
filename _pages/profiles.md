@@ -15,13 +15,13 @@ profiles:
     image: arnadi.jpg
     url: https://murtiad.github.io
   
-  - name: Alice Johnson
-    role: Leader
+  - name: Pierre Grussenmeyer
+    role: Collaborator
     image: prof_pic.jpg
     url: https://example.com/alice
   
-  - name: Carol Lee
-    role: Member
+  - name: Tania Landes
+    role: Collaborator
     image: /assets/img/prof_pic.jpg
     url: https://example.com/carol
 
