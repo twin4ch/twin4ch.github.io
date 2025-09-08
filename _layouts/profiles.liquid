@@ -35,7 +35,6 @@ layout: page
 <div class="post">
   <article>
     {% assign roles = page.profiles | map: "role" | uniq %}
-    {% assign profile_image_path = profile.image | prepend: 'assets/img/profile/' %}
     {% for role in roles %}
       <h2>{{ role }}</h2>
       <div class="profile-grid">
@@ -43,7 +42,7 @@ layout: page
           {% if profile.role == role %}
             <div class="profile-card">
               {{ profile.url }}
-                {{ profile.image }}
+                {{ profile.image | relative_url }}
               </a>
               <div class="profile-name">{{ profile.name }}</div>
             </div>
