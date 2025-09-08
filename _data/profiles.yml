@@ -1,0 +1,25 @@
+
+- name: Alice Johnson
+  role: Leader
+  image: /assets/img/profiles/alice.jpg
+  url: https://example.com/alice
+
+- name: Bob Smith
+  role: Leader
+  image: /assets/img/profiles/bob.jpg
+  url: https://example.com/bob
+
+- name: Carol Lee
+  role: Member
+  image: /assets/img/profiles/carol.jpg
+  url: https://example.com/carol
+
+- name: David Kim
+  role: Member
+  image: /assets/img/profiles/david.jpg
+  url: https://example.com/david
+
+- name: Eva Brown
+  role: Member
+  image: /assets/img/profiles/eva.jpg
+  url: https://example.com/eva
