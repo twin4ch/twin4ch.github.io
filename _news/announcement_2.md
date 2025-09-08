@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://www.linkedin.com/posts/arnadi-murtiyoso_last-week-the-topographie-insa-strasbourg-activity-7369744135706144768-XHeF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA26MvQBxUzSg24Cno0PKwnpdnfuyF5qN24" target="_blank" rel="noopener noreferrer">Twin4CH was present at the bi-annual CIPA Symposium in Seoul, South Korea.</a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/posts/arnadi-murtiyoso_last-week-the-topographie-insa-strasbourg-activity-7369744135706144768-XHeF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA26MvQBxUzSg24Cno0PKwnpdnfuyF5qN24">Twin4CH was present at the bi-annual CIPA Symposium in Seoul, South Korea.</a>
 
 <!---
 
