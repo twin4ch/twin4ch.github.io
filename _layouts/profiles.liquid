@@ -2,21 +2,55 @@
 layout: page
 ---
 
+<style>
+  .profile-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+
+  .profile-card {
+    text-align: center;
+    transition: transform 0.3s ease;
+  }
+
+  .profile-card:hover {
+    transform: scale(1.05);
+  }
+
+  .profile-card img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+
+  .profile-name {
+    margin-top: 8px;
+    font-weight: 500;
+  }
+</style>
+
 <div class="post">
   <article>
     {% assign roles = page.profiles | map: "role" | uniq %}
     {% for role in roles %}
       <h2>{{ role }}</h2>
-      <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+      <div class="profile-grid">
         {% for profile in page.profiles %}
           {% if profile.role == role %}
-            {{ profile.url }}
-              {{ profile.image }}
-            </a>
+            <div class="profile-card">
+              {{ profile.url }}
+                {{ profile.image }}
+              </a>
+              <div class="profile-name">{{ profile.name }}</div>
+            </div>
           {% endif %}
         {% endfor %}
       </div>
     {% endfor %}
   </article>
 </div>
+
 
