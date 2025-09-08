@@ -29,5 +29,5 @@ The Digital Twin for Cultural Heritage (Twin4CH) Chair aims to investigate the r
 The Chair is hosted by INSA Strasbourg and is part of the _Chaire de Professeur Junior_ (CPJ) research scheme financed by the French _Agence Nationale de la Recherche_ (ANR).
 
 <a href="https://www.insa-strasbourg.fr/" target="_blank">
-  <img src="/assets/img/insa_nb.jpg" alt="INSA Strasbourg" width="150">
+  <img src="/assets/img/insa_co.png" alt="INSA Strasbourg" width="150">
 </a>
