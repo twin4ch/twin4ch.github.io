@@ -18,10 +18,25 @@ profiles:
   - name: Pierre Grussenmeyer
     role: Collaborator
     image: blank.jpg
-    url: https://example.com/alice
+    url: https://scholar.google.fr/citations?user=qICoHIcAAAAJ&hl=en
   
   - name: Tania Landes
     role: Collaborator
+    image: blank.jpg
+    url: https://scholar.google.fr/citations?hl=en&user=--w97vEAAAAJ
+
+  - name: Dario Billi
+    role: PhD Researcher
+    image: blank.jpg
+    url: https://example.com/carol
+
+  - name: Widiatmoko Azis Fadilah
+    role: PhD Researcher
+    image: blank.jpg
+    url: https://example.com/carol
+
+  - name: Theodoros Betsas
+    role: Visiting Researcher
     image: blank.jpg
     url: https://example.com/carol
 
