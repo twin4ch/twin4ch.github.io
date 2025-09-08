@@ -26,4 +26,4 @@ latest_posts:
 
 The Digital Twin for Cultural Heritage (Twin4CH) Chair aims to investigate the rising use of digital twins in heritage documentation and management, with a special focus on urban heritage facing risks from climate change. The Chair conducts state-of-the art research in 3D representation (photogrammetry, lidar, radiance fields, etc.) in relation to their use for urban heritage sites, as well as data integration for a digital twin. It also focuses on the interactions and influences of climate change and built heritage in an urban setting.
 
-The Chair is hosted by INSA Strasbourg and is part of the _Chair de Professeur Junior_ (CPJ) research scheme financed by the French _Agence Nationale de la Recherche_ (ANR).
+The Chair is hosted by INSA Strasbourg and is part of the _Chaire de Professeur Junior_ (CPJ) research scheme financed by the French _Agence Nationale de la Recherche_ (ANR).
