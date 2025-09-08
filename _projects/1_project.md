@@ -4,7 +4,7 @@ title: Gaussian splatting for heritage
 description: 
 img: assets/img/tours.gif
 importance: 1
-category: work
+category: 
 related_publications: true
 ---
 
