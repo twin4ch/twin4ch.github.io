@@ -30,8 +30,8 @@ profiles:
 
   - name: Dario Billi
     role: PhD Researcher
-    image: blank.jpg
-    url: https://example.com/carol
+    image: dario.png
+    url: https://www.linkedin.com/in/dario-billi-0899a71bb/
     email: dario.billi@insa-strasbourg.fr
 
   - name: Widiatmoko Azis Fadilah
