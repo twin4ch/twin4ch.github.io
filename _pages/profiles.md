@@ -18,19 +18,19 @@ profiles:
   
   - name: Pierre Grussenmeyer
     role: Collaborator
-    image: pierre.jpg
+    image: pierre.JPG
     url: https://scholar.google.fr/citations?user=qICoHIcAAAAJ&hl=en
     email: pierre.grussenmeyer@insa-strasbourg.fr
   
   - name: Tania Landes
     role: Collaborator
-    image: tania.jpg
+    image: tania.JPG
     url: https://scholar.google.fr/citations?hl=en&user=--w97vEAAAAJ
     email: tania.landes@insa-strasbourg.fr
 
   - name: Dario Billi
     role: PhD Researcher
-    image: dario.png
+    image: dario.jpg
     url: https://www.linkedin.com/in/dario-billi-0899a71bb/
     email: dario.billi@insa-strasbourg.fr
 
@@ -42,7 +42,7 @@ profiles:
 
   - name: Thodoris Betsas (NTUA, Greece)
     role: Visiting Researcher
-    image: betsas.jpg
+    image: betsas.JPG
     url: https://scholar.google.com/citations?user=jEHV7i8AAAAJ&hl=el
     email: betsasth@mail.ntua.gr
 
