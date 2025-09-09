@@ -42,7 +42,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-twin4ch-was-present-at-the-bi-annual-cipa-symposium-in-seoul-south-korea",
+            },},{id: "news-warm-welcome-to-dario-billi-thodoris-betsas-and-widiatmoko-azis-fadilah-to-our-team-read-more-about-their-upcoming-research-with-twin4ch-here",
+          title: 'Warm welcome to Dario Billi, Thodoris Betsas, and Widiatmoko Azis Fadilah to our...',
+          description: "",
+          section: "News",},{id: "news-twin4ch-was-present-at-the-bi-annual-cipa-symposium-in-seoul-south-korea",
           title: 'Twin4CH was present at the bi-annual CIPA Symposium in Seoul, South Korea.',
           description: "",
           section: "News",},{id: "projects-gaussian-splatting-for-heritage",
