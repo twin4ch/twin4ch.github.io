@@ -6,5 +6,5 @@ inline: true
 related_posts: false
 ---
 
-Arnadi Murtiyoso attended <a target="_blank" rel="noopener noreferrer" href="https://arif-cost.eu/">ARiF EU COST Action </a> Core Group meeting in Lisbon, Portugal. <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/posts/arif-cost_ar-augmentedreality-forestry-activity-7375053386964156416-nBHf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA26MvQBxUzSg24Cno0PKwnpdnfuyF5qN24">Read more here.</a>
+Twin4CH members attended the <a target="_blank" rel="noopener noreferrer" href="https://dvw.de/intergeo/en">INTERGEO Expo </a> in Frankfurt, Germany. <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/posts/arnadi-murtiyoso_drones-digitaltwin-laserscanners-ugcPost-7382058571506794496-K2H_?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAA26MvQBxUzSg24Cno0PKwnpdnfuyF5qN24">Read more here.</a>
 
