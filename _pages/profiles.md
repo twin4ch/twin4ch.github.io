@@ -46,4 +46,10 @@ profiles:
     url: https://scholar.google.com/citations?user=jEHV7i8AAAAJ&hl=el
     email: betsasth@mail.ntua.gr
 
+  - name: Virgile Gauthier
+    role: Master Student
+    image: gauthier.jpg
+    #url: https://scholar.google.com/citations?user=jEHV7i8AAAAJ&hl=el
+    email: virgile.gauthier@insa-strasbourg.fr
+
 ---
