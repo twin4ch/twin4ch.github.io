@@ -40,11 +40,11 @@ profiles:
     url: https://www.linkedin.com/in/widiatmoko-azis-f/
     email: widiatmoko-azis.fadilah@insa-strasbourg.fr
 
-  - name: Thodoris Betsas (NTUA, Greece)
-    role: Visiting Researcher
+  - name: Thodoris Betsas (2025-2026)
+    role: Former Members
     image: betsas.jpg
-    url: https://scholar.google.com/citations?user=jEHV7i8AAAAJ&hl=el
-    email: betsasth@mail.ntua.gr
+    # url: https://scholar.google.com/citations?user=jEHV7i8AAAAJ&hl=el
+    # email: betsasth@mail.ntua.gr
 
   - name: Virgile Gauthier
     role: Master Student
