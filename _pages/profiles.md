@@ -37,7 +37,7 @@ profiles:
   - name: Widiatmoko Azis Fadilah
     role: PhD Researcher
     image: fadilah.jpg
-    url: https://www.linkedin.com/in/widiatmoko-azis-f/
+    url: https://scholar.google.fr/citations?user=NKhr_RUAAAAJ&hl=en&oi=ao
     email: widiatmoko-azis.fadilah@insa-strasbourg.fr
 
   - name: Virgile Gauthier
