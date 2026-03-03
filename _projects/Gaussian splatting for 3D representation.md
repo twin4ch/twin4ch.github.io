@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gaussian splatting for 3D reconstruction
+title: Gaussian splatting for 3D representation
 description: 
 img: assets/img/tours.gif
 importance: 1
