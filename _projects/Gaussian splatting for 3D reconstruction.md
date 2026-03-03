@@ -28,7 +28,11 @@ Metric documentation of cultural heritage provides reference points for preserva
 - Kadek Ananta Satriadi (Monash University)
 
 ## Related publications
-{% bibliography --query @*[id=wilson20253d|sommer2025radiance|isprs-archives-XLVIII-M-9-2025-1059-2025|isprs-archives-XLVIII-M-9-2025-1475-2025] %}
+<div class="publications">
+  {% bibliography --file papers --max 3 %}
+</div>
+
+{% bibliography --query @*[id=wilson20253d|sommer2025radiance] %}
 
 {% reference wilson20253d %}
 
