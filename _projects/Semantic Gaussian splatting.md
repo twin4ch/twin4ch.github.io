@@ -27,7 +27,7 @@ Widiatmoko Azis Fadilah
 - Virgile Gauthier (ICube TRIO)
 
 ## Related publications
-{% reference betsas2026exploring %}
-
-{% reference fadilah2026metric %}
+<div class="publications">
+  {% bibliography --group_by none --query @*[project=semG]* %}
+</div>
 
