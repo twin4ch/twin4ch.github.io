@@ -43,7 +43,7 @@ profiles:
   - name: Virgile Gauthier
     role: Master Student
     image: gauthier.jpg
-    #url: https://scholar.google.com/citations?user=jEHV7i8AAAAJ&hl=el
+    url: https://www.linkedin.com/in/virgile-gauthier-531955298/
     email: virgile.gauthier@insa-strasbourg.fr
 
   - name: Thodoris Betsas (2025-2026)
