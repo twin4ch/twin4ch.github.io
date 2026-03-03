@@ -17,31 +17,31 @@ profiles:
     email: arnadi.murtiyoso@insa-strasbourg.fr
   
   - name: Pierre Grussenmeyer
-    role: Collaborator
+    role: Collaborators
     image: pierre.jpg
     url: https://scholar.google.fr/citations?user=qICoHIcAAAAJ&hl=en
     email: pierre.grussenmeyer@insa-strasbourg.fr
   
   - name: Tania Landes
-    role: Collaborator
+    role: Collaborators
     image: tania.jpg
     url: https://scholar.google.fr/citations?hl=en&user=--w97vEAAAAJ
     email: tania.landes@insa-strasbourg.fr
 
   - name: Dario Billi
-    role: PhD Researcher
+    role: PhD Researchers
     image: dario.jpg
     url: https://www.linkedin.com/in/dario-billi-0899a71bb/
     email: dario.billi@insa-strasbourg.fr
 
   - name: Widiatmoko Azis Fadilah
-    role: PhD Researcher
+    role: PhD Researchers
     image: fadilah.jpg
     url: https://scholar.google.fr/citations?user=NKhr_RUAAAAJ&hl=en&oi=ao
     email: widiatmoko-azis.fadilah@insa-strasbourg.fr
 
   - name: Virgile Gauthier
-    role: Master Student
+    role: Master Students
     image: gauthier.jpg
     url: https://www.linkedin.com/in/virgile-gauthier-531955298/
     email: virgile.gauthier@insa-strasbourg.fr
