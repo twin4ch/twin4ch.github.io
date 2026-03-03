@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gaussian splatting for heritage
+title: Gaussian splatting for 3D reconstruction
 description: 
 img: assets/img/tours.gif
 importance: 1
@@ -13,10 +13,21 @@ Metric documentation of cultural heritage provides reference points for preserva
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tours.gif" title="gaussian splatting for tower" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="gaussian3D_1.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="gaussian3D_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 ## Collaborators
 - Hélène Macher (ICube TRIO)
 - Etienne Sommer (ICube TRIO)
+
+## Related publications
+{% reference wilson20253d %}
+{% reference sommer2025radiance %}
+{% reference isprs-archives-XLVIII-M-9-2025-1059-2025 %}
+{% reference isprs-archives-XLVIII-M-9-2025-1475-2025 %}
