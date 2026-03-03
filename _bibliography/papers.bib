@@ -17,6 +17,7 @@
   selected={false},
   abbr={ISPRS Archives},
   preview={betsas2026exploring.jpg},
+  project={semG},
   abstract={The complex geometry of Javanese architecture poses significant challenges for 3D semantic segmentation in cultural heritage documentation. This study evaluates state-of-the-art Point Transformers, i.e., PTv1, PTv2, PTv3, and LitePT, on the Sewu temple dataset, focusing on robustness and efficiency. While PTv1 and PTv2 achieve the highest Intersection-over-Union (mIoU 0.71), they incur high computational costs. Conversely, LitePT provides an optimal balance, delivering competitive results (0.69 mIoU) while being drastically faster. Furthermore, experiments with limited data reveal the significant benefits of transfer learning from European heritage datasets. We conclude that efficient Point Transformer architectures are promising for the automated understanding of complex non-European monuments.},
   publisher={Copernicus Publications G{\"o}ttingen, Germany}
 }
@@ -53,6 +54,7 @@
   selected={true},
   abbr={ISPRS Archives},
   preview={fadilah2026metric.jpg},
+  project={semG},
   abstract={Urban heritage increasingly faces threats from natural disasters and anthropogenic activities, demanding preservation techniques that balance affordability, speed, and accuracy. Real-time rendering with 3D Gaussian Splatting (3DGS) offers immense potential for rapid heritage documentation; however optimal training configurations especially for aerial nadiral images remain limited. This study compares three 3DGS implementations: native 3DGS, Postshot Splat3, and MCMC variants against conventional multi-view stereo using an 80-meter altitude drone aerial imagery. Results reveal some interesting key findings where moderate downsampling of 1/8 resolution can substantially outperform full resolution training. Postshot Splat3 achieved optimal photometric quality while training 21x faster than native implementations. However, geometric analysis showed that rendering quality and geometric accuracy are not correlated. Furthermore, the result suggested that MCMC configurations failed to compete with native 3DGS and Postshot Splat3. These findings suggest that 3DGS-based heritage documentation requires a rather conservative resolution selection and optimized implementation for efficiency to allow cost effective preservation while maintaining dimensional fidelity.},
   publisher={Copernicus Publications G{\"o}ttingen, Germany}
 }
@@ -228,7 +230,7 @@ abstract={Cultural heritage sites, such as historical buildings and monuments, h
 
 @article{murtiyoso2024comparison,
   title={Comparison of state-of-the-art multi-view stereo solutions for close range heritage documentation},
-  author={Murtiyoso, Arnadi and Markiewicz, Jakub Stefan and Karwel, Artur Karol and Grussenmeyer, Pierre and Kot, Patryk},
+  author={Murtiyoso, A. and Markiewicz, J.S. and Karwel, A.K. and Grussenmeyer, P. and Kot, P.},
   abstract={In recent years novel 3D reconstruction methods have been developed to improve the conventional image-based point cloud generation techniques. These novel methods generally attempt to address various challenges encountered in conventional methods, namely, the reconstruction of reflective surfaces and the amount of processing time required, both of which are major bottlenecks in heritage documentation and especially those related to large and complex objects. In this paper, we identified three types of 3D image-based reconstruction techniques and tested their usage on heritage datasets, namely (1) conventional multi-view stereo (MVS), (2) learning-based MVS, and (3) neural radiance fields (NeRF). The aim of this study is to determine the capabilities of these methods in reconstruction of three different heritage-related datasets with different challenges. Our results show that conventional MVS is nowadays a reliable solution for 3D reconstruction, in many instances recording good results relative to the reference terrestrial laser scans (TLS) when properly deployed. When applied to a challenging highly reflective scene, conventional MVS fared well using the PatchMatch algorithm (reaching an object completeness rate of 99.05%), while NeRF’s best performance was 99.98%. However, NeRF suffered from noisy data, some of which may stem from its radiance field-to-point cloud conversion method. The results show that there is great potential in using specific methods for specific cases, and research in combining them may yield interesting results in the future.},
   journal={International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
   volume={48},
@@ -243,5 +245,6 @@ abstract={Cultural heritage sites, such as historical buildings and monuments, h
   abbr={ISPRS Archives},
   publisher={Copernicus},
   preview={murtiyoso2024comparison.jpg},
+  project={GS3D},
   pdf={murtiyoso2024comparison.pdf}
 }
