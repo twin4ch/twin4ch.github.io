@@ -26,6 +26,7 @@ Metric documentation of cultural heritage provides reference points for preserva
 - Hélène Macher (ICube TRIO)
 - Etienne Sommer (ICube TRIO)
 - Kadek Ananta Satriadi (Monash University)
+- Francesca Matrone (Politecnico di Torino)
 
 ## Related publications
 <div class="publications">
