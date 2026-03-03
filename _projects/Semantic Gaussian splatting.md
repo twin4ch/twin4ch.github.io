@@ -28,5 +28,6 @@ Widiatmoko Azis Fadilah
 
 ## Related publications
 {% reference betsas2026exploring %}
+
 {% reference fadilah2026metric %}
 
