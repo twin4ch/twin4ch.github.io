@@ -60,11 +60,11 @@ ninja.data = [{
           section: "News",},{id: "news-twin4ch-attended-the-isprs-and-cipa-hd-11th-3darch-workshop-in-ancona-italy-widiatmoko-azis-fadilah-and-thodoris-betsas-presented-their-papers-while-arnadi-murtiyoso-delivered-an-invited-talk-on-the-twin4ch-project-read-more-here",
           title: 'Twin4CH attended the ISPRS and CIPA HD 11th 3DARCH Workshop in Ancona, Italy....',
           description: "",
-          section: "News",},{id: "projects-gaussian-splatting-for-3d-reconstruction",
-          title: 'Gaussian splatting for 3D reconstruction',
+          section: "News",},{id: "projects-gaussian-splatting-for-3d-representation",
+          title: 'Gaussian splatting for 3D representation',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Gaussian%20splatting%20for%203D%20reconstruction/";
+              window.location.href = "/projects/Gaussian%20splatting%20for%203D%20representation/";
             },},{id: "projects-semantic-gaussian-splatting",
           title: 'Semantic Gaussian splatting',
           description: "",
