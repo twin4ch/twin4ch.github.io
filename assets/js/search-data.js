@@ -65,6 +65,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Gaussian%20splatting%20for%203D%20reconstruction/";
+            },},{id: "projects-semantic-gaussian-splatting",
+          title: 'Semantic Gaussian splatting',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Semantic%20Gaussian%20splatting/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
