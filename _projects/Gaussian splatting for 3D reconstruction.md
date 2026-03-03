@@ -25,6 +25,7 @@ Metric documentation of cultural heritage provides reference points for preserva
 ## Collaborators
 - Hélène Macher (ICube TRIO)
 - Etienne Sommer (ICube TRIO)
+- Kadek Ananta Satriadi (Monash University)
 
 ## Related publications
 {% bibliography --query @*[id=wilson20253d|sommer2025radiance|isprs-archives-XLVIII-M-9-2025-1059-2025|isprs-archives-XLVIII-M-9-2025-1475-2025] %}
