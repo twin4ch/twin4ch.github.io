@@ -34,11 +34,3 @@ Metric documentation of cultural heritage provides reference points for preserva
 </div>
 
 
-
-{% reference wilson20253d %}
-
-{% reference sommer2025radiance %}
-
-{% reference isprs-archives-XLVIII-M-9-2025-1059-2025 %}
-
-{% reference isprs-archives-XLVIII-M-9-2025-1475-2025 %}
