@@ -29,10 +29,10 @@ Metric documentation of cultural heritage provides reference points for preserva
 
 ## Related publications
 <div class="publications">
-  {% bibliography --file papers --max 3 %}
+  {% bibliography --query @*[id=wilson20253d|sommer2025radiance] --group_by none %}
 </div>
 
-{% bibliography --query @*[id=wilson20253d|sommer2025radiance] %}
+
 
 {% reference wilson20253d %}
 
