@@ -38,18 +38,30 @@ layout: page
       <div class="profile-grid">
         {% for profile in page.profiles %}
           {% if profile.role == role %}
-            <div class="profile-card">
-            <a href="{{ profile.url }}">
-                {% assign profile_image_path = profile.image | prepend: 'assets/img/profile/' %}
-                {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-                {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
-                {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.name %}
+            {% if profile.status == 'past' %}
+              <div class="profile-card">
+                  {% assign profile_image_path = profile.image | prepend: 'assets/img/profile/' %}
+                  {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+                  {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
+                  {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.name %}
+              <div class="profile-name">
+                {{ profile.name }}
+              </div>
+              </div>
+            {% else %}
+              <div class="profile-card">
+              <a href="{{ profile.url }}">
+                  {% assign profile_image_path = profile.image | prepend: 'assets/img/profile/' %}
+                  {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+                  {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
+                  {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.name %}
               </a>
               <div class="profile-name">
                 {{ profile.name }}
                 <a href="mailto:{{ profile.email }}"> 📧</a>
               </div>
-            </div>
+              </div>
+            {% endif %}
           {% endif %}
         {% endfor %}
       </div>
