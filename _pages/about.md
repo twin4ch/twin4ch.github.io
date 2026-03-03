@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: sewu.gif
+  image: murtiyoso2025javanese.gif
   image_circular: false # crops the image to make it circular
   more_info: 
 
