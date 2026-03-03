@@ -18,7 +18,7 @@ Metric documentation of cultural heritage provides reference points for preserva
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/gaussian3D_1.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/gaussian3D_2.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
