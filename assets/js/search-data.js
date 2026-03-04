@@ -65,6 +65,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Gaussian%20splatting%20for%203D%20representation/";
+            },},{id: "projects-radiance-fields-based-3d-surface-reconstruction",
+          title: 'Radiance fields-based 3D surface reconstruction',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Radiance%20fields-based%203D%20surface%20reconstruction/";
             },},{id: "projects-semantic-gaussian-splatting",
           title: 'Semantic Gaussian splatting',
           description: "",
