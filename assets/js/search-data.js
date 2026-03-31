@@ -57,7 +57,7 @@ ninja.data = [{
           section: "News",},{id: "news-a-seminar-and-data-acquisition-mission-was-conducted-at-the-kasepuhan-palace-historical-complex-in-cirebon-indonesia-read-more-here",
           title: 'A seminar and data acquisition mission was conducted at the Kasepuhan Palace historical...',
           description: "",
-          section: "News",},{id: "news-twin4ch-attended-the-isprs-and-cipa-hd-11th-3darch-workshop-in-ancona-italy-widiatmoko-azis-fadilah-and-thodoris-betsas-presented-their-papers-while-arnadi-murtiyoso-delivered-an-invited-talk-on-the-twin4ch-project-read-more-here",
+          section: "News",},{id: "news-twin4ch-attended-the-isprs-and-cipa-hd-11th-3darch-workshop-in-ancona-italy-widiatmoko-azis-fadilah-and-thodoris-betsas-presented-their-papers-while-arnadi-murtiyoso-delivered-an-keynote-talk-on-the-twin4ch-project-read-more-here",
           title: 'Twin4CH attended the ISPRS and CIPA HD 11th 3DARCH Workshop in Ancona, Italy....',
           description: "",
           section: "News",},{id: "news-arnadi-murtiyoso-was-invited-to-present-twin4ch-s-work-during-a-stakeholder-forum-for-ai-in-3d-digital-twins-of-cultural-heritage-organised-by-the-european-commission-dg-connect-and-3d-4ch-competence-centre-read-more-here",
