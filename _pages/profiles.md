@@ -46,7 +46,7 @@ profiles:
     url: https://www.linkedin.com/in/virgile-gauthier-531955298/
     email: virgile.gauthier@insa-strasbourg.fr
 
- - name: Lou-Marie de Franceschi
+  - name: Lou-Marie de Franceschi
     role: Master Students
     image: franceschi.jpeg
     url: https://www.linkedin.com/in/lou-marie-de-franceschi-7385473b6/
