@@ -68,7 +68,7 @@ profiles:
   
 
   - name: Thodoris Betsas (2025-2026)
-    role: Former Members
+    role: Former Guests & Members
     image: betsas.jpg
     status: past
     # url: https://scholar.google.com/citations?user=jEHV7i8AAAAJ&hl=el
