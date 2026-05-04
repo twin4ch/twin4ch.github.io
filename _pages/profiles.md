@@ -40,13 +40,13 @@ profiles:
     url: https://scholar.google.fr/citations?user=NKhr_RUAAAAJ&hl=en&oi=ao
     email: widiatmoko-azis.fadilah@insa-strasbourg.fr
   
-  - name: Federico Giulioni
+  - name: Federico Giulioni (UNIVPM, Italy)
     role: Visiting Researchers
     image: giulioni.jpg
     url: https://scholar.google.com/citations?user=s5ayQdQAAAAJ&hl=it
     email: f.giulioni@pm.univpm.it
   
-  - name: Alessio Martino
+  - name: Alessio Martino (PoliTO, Italy)
     role: Visiting Researchers
     image: martino.jpg
     url: https://www.linkedin.com/in/alessio-martino98/
