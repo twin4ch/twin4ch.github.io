@@ -40,7 +40,18 @@ profiles:
     url: https://scholar.google.fr/citations?user=NKhr_RUAAAAJ&hl=en&oi=ao
     email: widiatmoko-azis.fadilah@insa-strasbourg.fr
   
-  - name: Federico Giulioni (2026)
+  
+
+  
+
+  - name: Thodoris Betsas (2025-2026)
+    role: Former Guests & Members
+    image: betsas.jpg
+    status: past
+    # url: https://scholar.google.com/citations?user=jEHV7i8AAAAJ&hl=el
+    # email: betsasth@mail.ntua.gr
+
+ - name: Federico Giulioni (2026)
     role: Former Guests & Members
     image: giulioni.jpg
     status: past
@@ -68,16 +79,5 @@ profiles:
     status: past
     #url: https://www.linkedin.com/in/virgile-gauthier-531955298/
     #email: virgile.gauthier@insa-strasbourg.fr
-
-  
-
-  - name: Thodoris Betsas (2025-2026)
-    role: Former Guests & Members
-    image: betsas.jpg
-    status: past
-    # url: https://scholar.google.com/citations?user=jEHV7i8AAAAJ&hl=el
-    # email: betsasth@mail.ntua.gr
-
- 
 
 ---
