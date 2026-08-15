@@ -40,30 +40,34 @@ profiles:
     url: https://scholar.google.fr/citations?user=NKhr_RUAAAAJ&hl=en&oi=ao
     email: widiatmoko-azis.fadilah@insa-strasbourg.fr
   
-  - name: Federico Giulioni (UNIVPM, Italy)
-    role: Visiting Researchers
+  - name: Federico Giulioni (2026)
+    role: Former Guests & Members
     image: giulioni.jpg
-    url: https://scholar.google.com/citations?user=s5ayQdQAAAAJ&hl=it
-    email: f.giulioni@pm.univpm.it
+    status: past
+    #url: https://scholar.google.com/citations?user=s5ayQdQAAAAJ&hl=it
+    #email: f.giulioni@pm.univpm.it
   
-  - name: Alessio Martino (PoliTO, Italy)
-    role: Visiting Researchers
+  - name: Alessio Martino (2026)
+    role: Former Guests & Members
     image: martino.jpg
-    url: https://www.linkedin.com/in/alessio-martino98/
-    email: alessio.martino@polito.it
+    status: past
+    #url: https://www.linkedin.com/in/alessio-martino98/
+    #email: alessio.martino@polito.it
 
   
-  - name: Lou-Marie de Franceschi
-    role: Master Students
+  - name: Lou-Marie de Franceschi (2026)
+    role: Former Guests & Members
     image: franceschi.jpeg
-    url: https://www.linkedin.com/in/lou-marie-de-franceschi-7385473b6/
-    email: lou-marie.de-franceschi@etu.unistra.fr
+    status: past
+    #url: https://www.linkedin.com/in/lou-marie-de-franceschi-7385473b6/
+    #email: lou-marie.de-franceschi@etu.unistra.fr
   
-  - name: Virgile Gauthier
-    role: Master Students
+  - name: Virgile Gauthier (2026)
+    role: Former Guests & Members
     image: gauthier.jpg
-    url: https://www.linkedin.com/in/virgile-gauthier-531955298/
-    email: virgile.gauthier@insa-strasbourg.fr
+    status: past
+    #url: https://www.linkedin.com/in/virgile-gauthier-531955298/
+    #email: virgile.gauthier@insa-strasbourg.fr
 
   
 
