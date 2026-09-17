@@ -44,12 +44,7 @@ profiles:
 
   
 
-  - name: Thodoris Betsas (2025-2026)
-    role: Former Guests & Members
-    image: betsas.jpg
-    status: past
-    # url: https://scholar.google.com/citations?user=jEHV7i8AAAAJ&hl=el
-    # email: betsasth@mail.ntua.gr
+ 
 
   - name: Federico Giulioni (2026)
     role: Former Guests & Members
@@ -65,18 +60,25 @@ profiles:
     #url: https://www.linkedin.com/in/alessio-martino98/
     #email: alessio.martino@polito.it
     
-  - name: Lou-Marie de Franceschi (2026)
-    role: Former Guests & Members
-    image: franceschi.jpeg
-    status: past
-    #url: https://www.linkedin.com/in/lou-marie-de-franceschi-7385473b6/
-    #email: lou-marie.de-franceschi@etu.unistra.fr
-  
   - name: Virgile Gauthier (2026)
     role: Former Guests & Members
     image: gauthier.jpg
     status: past
     #url: https://www.linkedin.com/in/virgile-gauthier-531955298/
     #email: virgile.gauthier@insa-strasbourg.fr
+
+  - name: Lou-Marie de Franceschi (2026)
+    role: Former Guests & Members
+    image: franceschi.jpeg
+    status: past
+    #url: https://www.linkedin.com/in/lou-marie-de-franceschi-7385473b6/
+    #email: lou-marie.de-franceschi@etu.unistra.fr
+    
+  - name: Thodoris Betsas (2025-2026)
+    role: Former Guests & Members
+    image: betsas.jpg
+    status: past
+    # url: https://scholar.google.com/citations?user=jEHV7i8AAAAJ&hl=el
+    # email: betsasth@mail.ntua.gr
 
 ---
