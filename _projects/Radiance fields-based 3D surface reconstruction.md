@@ -27,5 +27,10 @@ Dario Billi
 - Chaimaa Delasse (ICube TRIO & IAV Hassan II)
 - I Gede Mahendra Dharmawiguna (Monash University)
 
+## Related publications
+<div class="publications">
+  {% bibliography --group_by none --query @*[project=mesh]* %}
+</div>
+
 
 
